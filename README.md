@@ -3,3 +3,5 @@
 A repo to demonstrate pair programming configuration.
 
 Adding a line.
+
+hi Ben!
